@@ -1,9 +1,13 @@
-# React + Vite
+# Small Search engine UI using React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Steps to run the code
 
-Currently, two official plugins are available:
+- clone the code
+    - git clone https://github.com/uraden/agile-fe.git
+- install all the dependencies
+    - npm install
+- Run the the project
+    - npm run dev
+- Run the test
+    - npm test        
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# agile-fe
