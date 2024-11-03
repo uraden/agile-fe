@@ -1,6 +1,6 @@
 # Small Search engine UI using React + Vite
 
-Steps to run the code
+## Steps to run the code
 
 - clone the code
     - git clone https://github.com/uraden/agile-fe.git
